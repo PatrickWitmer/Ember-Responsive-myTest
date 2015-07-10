@@ -1,0 +1,21 @@
+.media-mobile {
+  color: #f00;
+  font-size: 1em;
+}
+.media-tablet {
+  color: #0f0;
+  font-size: 2em;
+}
+.media-desktop {
+  color: #00f;
+  font-size: 3em;
+}
+.media-jumbo {
+  color: #fc0;
+  font-size: 4em;
+}
+
+.media-ants {
+  color: #fff;
+  font-size: .25em;
+}
